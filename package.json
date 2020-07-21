@@ -1,0 +1,11 @@
+{
+  "name": "@dan-sogbey/whitespaceremover",
+  "version": "1.0.0",
+  "description": "A short function to remove white spaces in a string ",
+  "repository": "Daniel-Sogbey/whitespaceremover",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "whitespaceremover"
+  ]
+}
