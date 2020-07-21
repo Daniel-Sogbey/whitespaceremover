@@ -1,6 +1,6 @@
 {
   "name": "@dan-sogbey/whitespaceremover",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A short function to remove white spaces in a string ",
   "repository": "Daniel-Sogbey/whitespaceremover",
   "license": "MIT",
