@@ -10,7 +10,7 @@ It's the simplest npm module
 
 <h1>INSTALL</h1>
 
-\$ npm install @bamblehorse/tiny
+\$ npm install @dan-sogbey/whitespaceremover
 
 <h1>USAGE</h1>
 const tiny = require("@dan-sogbey/whitespaceremover");
