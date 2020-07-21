@@ -7,6 +7,6 @@ const whiteSpaceRemover = (string) => {
   }
 }
 
-whiteSpaceRemover("hello world")
+whiteSpaceRemover(" ")
 
 module.exports = whiteSpaceRemover
