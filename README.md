@@ -8,12 +8,13 @@
 
 It's the simplest npm module
 
-<h1>INSTALL</h1>
+# INSTALL
 
-\$ npm install @dan-sogbey/whitespaceremover
+`$ npm install @dan-sogbey/whitespaceremover`
 
-<h1>USAGE</h1>
-const whitespaceremover = require("@dan-sogbey/whitespaceremover");
+# USAGE
+
+```const whitespaceremover = require("@dan-sogbey/whitespaceremover");
 
 whitespaceremover("So much space!");
 //=> "Somuchspace!"
@@ -22,3 +23,4 @@ whitespaceremover(1337);
 //=> Uncaught TypeError: whitespaceremover wants a string!
 // at whitespaceremover (<anonymous>:2:41)
 // at <anonymous>:1:1
+```
