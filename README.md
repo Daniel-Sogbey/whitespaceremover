@@ -14,8 +14,9 @@ It's the simplest npm module
 
 # USAGE
 
-```const whitespaceremover = require("@dan-sogbey/whitespaceremover");
+`const whitespaceremover = require("@dan-sogbey/whitespaceremover");`
 
+```
 whitespaceremover("So much space!");
 //=> "Somuchspace!"
 
